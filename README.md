@@ -7,6 +7,12 @@ This Repository contains the execution service of ScriptBox which can be build i
 Other Repositories of ScriptBox kept private.
 
 ## ScriptBox Demo
+[scriptbox.webm](https://github.com/user-attachments/assets/72bde936-6fe2-4448-9c50-44c8c4fe521e)
+
+<img width="1906" height="923" alt="Screenshot from 2025-09-26 01-10-59" src="https://github.com/user-attachments/assets/4df057b1-2031-4abe-bc78-ffe136e759c3" />
+
+
+<img width="1906" height="923" alt="Screenshot from 2025-09-26 01-11-17" src="https://github.com/user-attachments/assets/963fbc34-bb9f-4d5b-b09a-82b35ab94517" />
 
 
 
