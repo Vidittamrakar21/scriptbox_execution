@@ -4,7 +4,7 @@ ScriptBox is a cloud based IDE for React.js,Next.js & Node.js, which contains mu
 websockets are used for bridging. fs-module is used for reading and writing the code to the files from scriptbox code editor to the docker container.
 This Repository contains the execution service of ScriptBox which can be build into a docker image and  hosted over AWS.
 
-Other Repositories of ScriptBox kept private.
+Other Repositories of ScriptBox are kept private.
 
 ## ScriptBox Demo
 [scriptbox.webm](https://github.com/user-attachments/assets/72bde936-6fe2-4448-9c50-44c8c4fe521e)
